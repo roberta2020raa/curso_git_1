@@ -1,5 +1,2 @@
-testando 
-uma 
-atualização
-de arquivo
-tem que funcionarrrrrr
+para treinar no git para verificar o fluxo 
+de envio
